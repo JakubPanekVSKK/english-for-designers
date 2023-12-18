@@ -1,5 +1,5 @@
-# Hello, I'm Jakub
-## - a passionate 3D artist with love for environment design
+# **Hello, I'm Jakub**
+## a passionate 3D artist with love for environment design
 
 Take a look at my [work](portfolio.md)
 
