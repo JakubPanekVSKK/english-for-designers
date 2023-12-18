@@ -3,5 +3,5 @@
 
 Take a look at my [work](portfolio.md)
 
-Get to know [me] better (about-me.md)
+Get to know [me](about-me.md) better
 
