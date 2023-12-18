@@ -1,1 +1,2 @@
-
+## My dumb perfectionism and laziness got me into 3D
+My artistic journey began in the kindergarten and so did my love for cars. I spent most of my time there drawing, at least what was supposed to look like, cars. When I got a bit older I tried Google SketchUp and made some very weird houses I tried to create. Two years later I pirated my first Photoshop and made even weirder stuff that mostly ended up as memes I shared with my friends. And then I got my first camera and it all got back to cars. 
