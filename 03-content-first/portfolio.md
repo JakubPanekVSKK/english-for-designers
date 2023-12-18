@@ -7,8 +7,11 @@ Every spot is stylized in painting style of chosen painter from each country.
 ## **Disconnected** (2023)
 Disconnected is my final project from second year of studies on VŠKK - Animations & VFX. The task was to create at least 30 seconds long movie with theme of "Hidden world".
 
-The are two hidden worlds in my story. The first one is in the mind of the main character. He is experiencing something, that to him is just dream. The second one is the actual world, that has been kept from him.
+The are two hidden worlds in my story. The first one is in the mind of the main character. He is experiencing something, that to him is just a dream. The second one is the actual world, that has been kept from him.
 
-I wanted the theme of my movie to be dark, dreamy and surrealistic. Many scenes were inspired by backrooms and different kinds of liminal spaces. Because of such theme, I wanted the movie to be a bit confusing and abstract. It was supposed to feel like if you are watching your own weird dream. It doesn't make any sense but at the same time, it kinda does. 
+I wanted the theme of my movie to be dark, dreamy and surrealistic. Many scenes were inspired by backrooms and different kinds of liminal spaces. Because of such theme, I wanted the movie to be little bit confusing and abstract. It was supposed to feel like you are watching your own weird dream. It doesn't make any sense but at the same time, it kinda does. 
 
-The project took approx. 3 weeks to finish
+The project took approximately 3 weeks to finish.
+
+## **Porsche 911**
+
