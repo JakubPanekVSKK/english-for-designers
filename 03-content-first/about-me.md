@@ -15,6 +15,6 @@ After few years I started to photograph all kinds of things including the archit
 Also after some time I realized I actually enjoy more the editing part then the actual shooting. I'm not sure, if it was because I was just lazy to go shoot, but it definitely had something to do with that dumb perfectionism.
 
 
-So after some time I tried Blender and got into 3D art. It was difficult and extremely confusing. As it is for every beginner. But the sense of freedom that you get after you learn such powerful softwares is totally amazing. And for me the freedom also meant total control over everything. Everything I want to make and express can be absolutely perfect. At least in my eyes.
+So after some time I tried Blender and got into 3D art. It was difficult and extremely confusing. As it is for every beginner. But the sense of freedom that you get after you learn such powerful softwares is totally amazing. And for me the freedom also meant total control over everything. Everything I want to be perfect can be perfect. At least in my eyes.
 
 
