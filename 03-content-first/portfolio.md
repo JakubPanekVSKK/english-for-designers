@@ -13,5 +13,7 @@ I wanted the theme of my movie to be dark, dreamy and surrealistic. Many scenes 
 
 The project took approximately 3 weeks to finish.
 
-## **Porsche 911**
+## **Blockstar VR** (2022)
+Blockstar VR is an arcade first-person shooter videogame made for Meta Quest & PC VR platforms.
 
+I made some of the 3D assets and textures for the game as well as the main lobby room.
