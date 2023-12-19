@@ -30,6 +30,7 @@ The gameplay consists of 40 levels across which you're destroying and dodging bl
 I made some of the 3D assets and textures for the game as well as the main lobby room.
 
 ## **Porsche 911** (2021)
+![porsche-911](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/41b5ceda-6a28-42b5-9669-5fe56c5e228d)
 
 This project was basically a personal 3D modelling and topology exercise that ended up as something I didn't even anticipate at the beginning. Before I got into 3D I have always admired those beatiful 3D car models in videogames, movies etc. and I never had any idea these models are actually mostly "handmade". When I got into 3D and learned the basics, I wanted to create something more complex and as I mostly do I dived into something ridiculously hard I had no idea how to make at that time. Somehow I managed not to drown myself and almost 4 months later I finished the model. 
 
