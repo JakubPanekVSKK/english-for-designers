@@ -19,7 +19,7 @@ So after some time I tried Blender and got into 3D art. It was difficult and ext
 
 ## What am I doing when I'm not currently 3Ding
 
-As much as I love looking at cars and connecting them with my work I obviously love to drive them too. Through out the summer you would often find me bashing the backroads behind my hometown and in the winter I enjoy some racing sim from the comfort of my desktop. I'm also looking forward to buy a proper car that will be able to withstand occasional trackdays at the racing circuit.
+As much as I love looking at cars and connecting them with my work I obviously love to drive them too. Through out the summer you would often find me bashing the backroads behind my hometown and in the winter I enjoy some racing sim from the comfort of my desktop. I like motorsport and competitive driving in general so I always tend to enhance my driving technique and retain the driving skills I gained by simply training and driving. But at the end of the day, driving like this on public roads can sometimes be dangerous so I'm always paying attention to my surroundings and road conditions and try to take as little risk as possible. I'm looking forward to hopefuly soon buy a proper car that will be able to withstand occasional trackdays at the racing circuit.
 
 Me and my girlfriend also love all sorts of EDM music so we often visit dance clubs and EDM events in Prague and every summer we visit some bigger foreign EDM festivals.
 
