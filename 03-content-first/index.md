@@ -5,7 +5,7 @@
 
 
 
-Take a look at my [work](portfolio.md)
+### Take a look at my [work](portfolio.md)
 
-Get to know [me](about-me.md) better
+### Get to know [me](about-me.md) better
 
