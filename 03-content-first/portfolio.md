@@ -1,4 +1,4 @@
-# My work
+![image](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/af20720b-dc96-41e8-a814-308ca9a646f5)# My work
 ## **Telmex Redbull F1** (2023) 
 Telmex F1 Project consists of 23 short spots - one for each race in the F1 season.
 
@@ -17,6 +17,8 @@ I wanted the theme of my movie to be dark, dreamy and surrealistic. Many scenes 
 The project took approximately 3 weeks to finish.
 
 ## **Blockstar VR** (2022)
+![blockstar-vr](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/223d0c0b-f5f2-4e3d-9c4c-a6b91f9fd89e)
+
 Blockstar VR is an arcade first-person shooter videogame made for Meta Quest & PC VR platforms.
 
 The gameplay consists of 40 levels across which you're destroying and dodging blocks and enemies. You get to choose from variety of guns, secondary attacks and bonuses. There are also multiple playing modes, such as deathmatch or party mode.
