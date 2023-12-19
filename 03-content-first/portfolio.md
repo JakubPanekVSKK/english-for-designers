@@ -1,4 +1,4 @@
-![disconnected](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/8b8b9286-11fa-4801-90ca-b081b5853037)![image](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/af20720b-dc96-41e8-a814-308ca9a646f5)# My work
+# My work
 ## **Telmex Redbull F1** (2023)
 ![telmex-f1](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/2b15d79b-e012-4b5c-bb85-99fb49fbc77b)
 
