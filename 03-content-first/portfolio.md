@@ -1,8 +1,8 @@
 # My work
 ## **Telmex Redbull F1** (2023)
-![telmex-f1](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/2b15d79b-e012-4b5c-bb85-99fb49fbc77b)
 
 Telmex F1 Project consists of 23 short spots - one for each race in the F1 season.
+![TelmexF1-thumb_03](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/75551812-bb5b-489d-afea-89cec395b6cd)
 
 The spots show mexican F1 RedBull driver Sergio Perez exploring wonders of all the countries hosting the races.
 Every spot is stylized in painting style of chosen painter from each country.
@@ -10,7 +10,7 @@ Every spot is stylized in painting style of chosen painter from each country.
 In the beginning of the project I worked on the main 3D assets, such as the F1 car, the character and the racing helmet. Then through out the process, my task was to compose exported animations into 3D environmet, take care of the scene textures and lighting and carry out the final render with all necessary masks and passes ready for final compositing and VFX.
 
 ## **Disconnected** (2023)
-![disconnected](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/d9b86994-fe6d-4cea-a067-3413e9b17101)
+![Disconnected-thumb_03](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/0fa6bfb2-ba3d-4401-8a9c-62a8ffcafd39)
 
 Disconnected is my final project from second year of studies on VŠKK - Animations & VFX. The task was to create at least 30 seconds long movie with theme of "Hidden world".
 
@@ -21,7 +21,7 @@ I wanted the theme of my movie to be dark, dreamy and surrealistic. Many scenes 
 The project took approximately 3 weeks to finish.
 
 ## **Blockstar VR** (2022)
-![blockstar-vr](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/223d0c0b-f5f2-4e3d-9c4c-a6b91f9fd89e)
+![BSVR-thumb_03](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/9a5d5173-e68f-48be-8c98-d583c84f401a)
 
 Blockstar VR is an arcade first-person shooter videogame made for Meta Quest & PC VR platforms.
 
