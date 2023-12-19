@@ -1,6 +1,6 @@
 # **Hello, I'm Jakub**
 ## a passionate 3D artist with love for environment design
-![profile-pic_01](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/3049e39f-31e6-45a4-8d75-b62a3b8857f2 =250x250)
+![profile-pic_01](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/3049e39f-31e6-45a4-8d75-b62a3b8857f2)
 
 Take a look at my [work](portfolio.md)
 
