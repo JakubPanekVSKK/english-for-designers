@@ -28,3 +28,9 @@ Blockstar VR is an arcade first-person shooter videogame made for Meta Quest & P
 The gameplay consists of 40 levels across which you're destroying and dodging blocks and enemies. You get to choose from variety of guns, secondary attacks and bonuses. There are also multiple playing modes, such as deathmatch or party mode.
 
 I made some of the 3D assets and textures for the game as well as the main lobby room.
+
+## **Porsche 911** (2021)
+
+This project was basically a personal 3D modelling and topology exercise that ended up as something I didn't even anticipate at the beginning. Before I got into 3D I have always admired those beatiful 3D car models in videogames, movies etc. and I never had any idea these models are actually mostly "handmade". When I got into 3D and learned the basics, I wanted to create something more complex and as I mostly do I dived into something ridiculously hard I had no idea how to make at that time. Somehow I managed not to drown myself and almost 4 months later I finished the model. 
+
+From todays perspective I can spot several mistakes and I would probably be able to create this in a quarter of the time. But this project was a big leap in my 3D journey and it's still one my most favorite projects I did.
