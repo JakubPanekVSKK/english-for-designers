@@ -17,6 +17,9 @@ Also after some time I realized I actually enjoy more the editing part then the 
 
 So after some time I tried Blender and got into 3D art. It was difficult and extremely confusing. As it is for every beginner. But the sense of freedom that you get after you learn such powerful softwares is totally amazing. And for me the freedom also meant total control over everything. Everything I want to be perfect can be perfect. At least in my eyes.
 
+<img width="564" alt="ig-screenshot-01" src="https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/8ea6180a-8961-4e25-90ac-85634c544514">
+
+
 ## What am I doing when I'm not currently 3Ding
 
 As much as I love looking at cars and connecting them with my work I obviously love to drive them too. Through out the summer you would often find me bashing the backroads behind my hometown and in the winter I enjoy some racing sim from the comfort of my desktop. I like motorsport and competitive driving in general so I always tend to enhance my driving technique and retain the driving skills I gained by simply training and driving. 
