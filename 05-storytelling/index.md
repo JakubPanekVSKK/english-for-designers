@@ -48,11 +48,17 @@ I had many creative hobbies but I never really thought that these would be usefu
 So from the really narrow perception of future possibilities that my highschool offered to me I saw it like this:
 
 I suck at math
+
 I suck at physics
+
 I suck at chemistry
+
 Geography is boring
+
 Art = no money
+
 Social sciences and history seem fine
+
 
 Guess I will study the law then
 
