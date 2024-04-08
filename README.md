@@ -6,5 +6,5 @@
 [03 Content First](03-content-first/index.md)
 
 
-[04 Voice, Tone and Style(04-voice-tone-style/index.md)]
+[04 Voice, Tone and Style(04-voice-tone-style)]
 
