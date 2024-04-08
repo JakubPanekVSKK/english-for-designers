@@ -102,7 +102,7 @@ I listened to bunch of smart and succesful people and created:
 
 **How to not get f*cked by AI aka My list of 5 useful future skills**
 
-Disclaimer: This may turn out to be complete bs in the but who knows lol
+Disclaimer: This may turn out to be complete bs in the future but who knows lol
 
 1) Become freelancer or work in smaller studios
 - You are less likely to get completely replaced by AI
