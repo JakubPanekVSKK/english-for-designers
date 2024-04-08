@@ -1,5 +1,7 @@
 **FUTURE AND MOTIVATION**
 
+To better understand the future, first we need to look into the past
+
 **PAST**
 
 During my highschool years I used to fear the future a lot.
@@ -59,8 +61,7 @@ Art = no money
 
 Social sciences and history seem fine
 
-
-Guess I will study the law then
+So I thought - Guess I will study the law then
 
 With your shitty marks? Lol good joke.
 It's difficult af, u got no chance!
@@ -108,7 +109,7 @@ Especially for us digital creators.
 AI will be most likely taking some jobs.
 Nobody just yet knows how many and which ones.
 
-That led me to think how can I survive this and possibly make the most out of it.
+So I thought - How can I survive this and possibly make the most out of it.
 I listened to bunch of smart and succesful people and created:
 
 **How to not get ef'd by AI aka My list of 5 useful future skills**
