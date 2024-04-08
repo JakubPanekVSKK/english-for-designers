@@ -111,7 +111,7 @@ Nobody just yet knows how many and which ones.
 That led me to think how can I survive this and possibly make the most out of it.
 I listened to bunch of smart and succesful people and created:
 
-**How to not get f*cked by AI aka My list of 5 useful future skills**
+**How to not get ef'd by AI aka My list of 5 useful future skills**
 
 Disclaimer: This may turn out to be complete bs in the future but who knows lol
 
