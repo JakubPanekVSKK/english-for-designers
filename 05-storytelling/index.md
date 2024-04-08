@@ -1,3 +1,5 @@
+PAST
+
 During my highschool years I used to fear the future a lot.
 
 I felt really miserable about myself.
@@ -26,12 +28,12 @@ Whenever any of the drivers were interviewed and asked what is their goal in the
 "I want to be the world champion"
 
 And I was absolutely not getting it.
-I knew that 80% of them have near to zero chance at ever becoming a world champion
+I knew that 80% of them have near to zero chance at ever becoming a world champion.
 If there is such a low chance and it is this hard then why even try and set such unreal goals?
 
 And that was my vibe.
 
-Long story short the end of my highschool studies were getting closer and closer
+Long story short, the end of my highschool studies was getting closer and closer
 
 I didn't know what I want to do next
 I had no motivation
@@ -52,7 +54,7 @@ Guess I will study the law then
 
 With your shitty marks? Lol good joke.
 It's difficult af, u got no chance!
-U really think u can withstand 5 years of studies without messing up?
+U really think u can withstand 5 years of studies without messing up? Bruh.
 
 But then a few weird things happened
 
@@ -72,17 +74,66 @@ Our highschool teachers.
 We were told we suck on such basis that even the smartest and most succesful of my former classmates felt like shit.
 There were several people who completely changed their field of interest and university the second year right after finishing the highschool.
 Vast amount of them actually went to more difficult studies, which previously felt totally unachievable to them. 
-Mostly because of the teachers that tought them such bs.
+Mostly because of the teachers of those subjects that tought them such bs.
 
 As you can see I changed my university too.
-I quickly realized that law is absolutely nothing for me and I left after first semester.
+I quickly realized that law is absolutely nothing for me and I left after the first semester.
 
-It took me just the first half year of being outside this shithole of highschool to actually open my eyes and focus more on the things that I really care about
+It took me just the first half year of being outside this toxic shithole of highschool to actually open my eyes and focus more on the things that I really care about
 
 Only then I started to realize all the possibilities I have and that it's totally possible to actually make a living of what I love.
 
 And that led me to where I am now.
+
 For the first time in my life I am actually motivated and I can honestly say that I want to be best at something.
+
+Or am I?
+
+FUTURE
+
+Future may not be that bright.
+Especially for us digital creators.
+
+AI will be most likely taking some jobs.
+Nobody just yet knows how many and which ones.
+
+That led me to think how can I survive this and possibly make the most out of it.
+I listened to bunch of smart and succesful people and created:
+
+**How to not get f*cked by AI aka My list of 5 useful future skills
+Disclaimer: This may turn out to be complete bs in the but who knows lol
+
+1) Become freelancer or work in smaller studios
+- You are less likely to get completely replaced by AI
+- AI can actually make your work easier and you can use it to speed up/bypass certain pipeline steps.
+
+- Bigger studios with thorough and expensive pipelines are less likely to be flexible to extreme changes in the technologies
+- There are many separate work positions for every little step in the pipeline that can be erased or replaced
+- This will over time probably lead to big layoffs or bankruptcy of such big companies
+
+2) Do not necesseraly try to master one thing only
+- If there's chance of your work being replaced, endlessly mastering one skill only can be kinda dangerous
+- Instead try to skill stack
+
+3) Skill stack
+- The more skills you gain, the less likely you are to be replaced
+- You have much bigger chance of "survival" if you're a multiskilled creator
+
+4) Get to know how to best sell your skills
+- The skills and tools you have mastered do not disapper over night when a new AI tool gets released
+- As long as you are able to sell your work and skills to someone, you still have a job. No matter if AI can replace you or not
+
+5) Be ready to let go of things
+- If that moment really comes and there will be some new magical tool that will be able to replace half of your skills, don't be overly emotional and be ready to let go of them
+- Our jobs are unfortunately really emotionaly bound, but not sticking to outdated inefficient tools can save you lots of time and money
+- And who knows, maybe some time after, the unique characteristics of such tools will be trendy again and you will be ready on the marks with your old new skills
+
+
+
+
+
+
+
 
 
 
