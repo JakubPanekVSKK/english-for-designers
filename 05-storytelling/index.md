@@ -32,7 +32,7 @@ Whenever any of the drivers were interviewed and asked what is their goal in the
 
 And I was absolutely not getting it.
 
-I knew that 80% of them have near to zero chance at ever becoming a world champion.
+I knew that 80% of them have near to zero chance of ever becoming a world champion.
 If there is such a low chance and it is this hard then why even try and set such unreal goals?
 
 And that was my vibe.
