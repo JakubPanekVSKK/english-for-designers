@@ -1,6 +1,6 @@
 **FUTURE AND MOTIVATION**
 
-.PAST.
+**PAST**
 
 During my highschool years I used to fear the future a lot.
 I studied at gymnasium school in hometown for 8 years.
@@ -94,7 +94,7 @@ For the first time in my life I am actually motivated and I can honestly say tha
 
 Or am I?
 
-FUTURE
+**FUTURE**
 
 Future may not be that bright.
 Especially for us digital creators.
