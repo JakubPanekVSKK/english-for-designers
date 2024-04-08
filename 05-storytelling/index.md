@@ -2,7 +2,7 @@ PAST
 
 During my highschool years I used to fear the future a lot.
 
-I felt really miserable about myself.
+I had many very good friends and a supporting family. But I felt really miserable about myself.
 Others always had better marks, they seemed smarter and more skilled.
 
 Because of this I really lacked any kind of motivation.
