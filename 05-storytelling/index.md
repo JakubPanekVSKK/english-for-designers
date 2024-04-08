@@ -1,6 +1,6 @@
 **FUTURE AND MOTIVATION**
 
-PAST
+.PAST.
 
 During my highschool years I used to fear the future a lot.
 I studied at gymnasium school in hometown for 8 years.
