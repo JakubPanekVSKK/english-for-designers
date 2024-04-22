@@ -11,6 +11,8 @@ The main goals of my thesis are:
 4) Which techniques and softwares are being used?
 5) What are the differences and core elements of game environments in different types of videogames?
 
+Unfortunately, the last chapter is still work in progress and it is currently not ready yet, so I'm gonna skip that one for today.
+
 **Chapter No.1 - Art departments**
 
 In the majority of big game studios, there mainly three departments, that are contributing in the creation of the game environment.
@@ -101,6 +103,8 @@ And if this technique is used properly you should not even notice a difference i
 The last technique is light baking
 This technique again kinda tricks the player with a visual bluff. When you're creating a 3D enviromnet you place many different light sources through out the scene. In order to make the system use less of its render power, you can bake the light into the texures of those objects, on which the light is being emitted.
 The lights is then emitted from emission texture of those objects and there are no actual dynamic lights in the scene. Of course, this technique has to be done properly, because if you mess it up, things can look really weird.
+
+In the last, currently work in progress chapter, I'm gonna take different kinds of videogame types, compare their environments and desribe the core elements of these environments and the main differences between them.
 
 And that's all for now!
 
