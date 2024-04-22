@@ -4,7 +4,7 @@
 
 **Polite and calm**
 
-I mostly try to be as calm and polite as possible, even in situations where others would loose their temper and feel like there's no more space for any politness. Overall I would say I'm mostly passive and conflictless person that tryies to find compromises and mutual ways and always try to understand the countreparty.
+I mostly try to be as calm and polite as possible, even in situations where others would loose their temper and feel like there's no more space for any politness. Overall I would say I'm mostly passive and conflictless person that tryies to find compromises and mutual ways and always wants to understand the countreparty.
 
 **Proffesional and disciplined**
 
