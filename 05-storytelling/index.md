@@ -118,9 +118,10 @@ Nobody just yet knows how many and which ones.
 So I thought - How can I survive this and possibly make the most out of it.
 I listened to bunch of smart and succesful people and created:
 
+
 **How to not get ef'd by AI aka My list of 5 useful future skills**
 
-Disclaimer: This may turn out to be complete bs in the future but who knows lol
+Disclaimer: This may turn out to be complete nonsense in the future but who knows lol
 
 1) Become freelancer or work in smaller studios
 - You are less likely to get completely replaced by AI if you work by yourself or in a small team
