@@ -17,7 +17,7 @@ Unfortunately, the last chapter is still work in progress and it is currently no
 
 In the majority of big game studios, there mainly three departments, that are contributing in the creation of the game environment.
 
-First department are Concept artists
+The first department are Concept artists
 
 Concept artist are working on every videogame project from the very beginning. They are the ones that set all the visual basis for every new videogame.
 They work on the theme of the game, its atmosphere and every key location in the environment.
@@ -33,7 +33,7 @@ They need to be able to come up with loads of different concepts for same things
 Next department in the pipeline are Level designers.
 
 Level designers are the ones who design the basis of every game environment. They are doing so by blocking out the environmnet with basic shapes and thoroughly testing it. 
-They also decide what's gonna happen in the environment - where will the enemies come from, where are you gonna hide or where and what will jumpscare you. 
+They also decide what's gonna happen in the environment. Where will the enemies come from, where are you gonna hide or where and what will jumpscare you. 
 
 This way they can ensure, that the player will be doing and feeling exactly how they want. 
 They even need to make sure that all the wanted game mechanics are being actively used through out the gameplay and that the enviromnet allows and encourages the player to use them in the way they were designed.
@@ -67,7 +67,7 @@ This means that the artist decide which color palettes will be used in the diffe
 
 Phase 3 - Materials and Enviromnet population
 
-In this phase, the first PBR materials are being create and applied and the first secondary 3D assets are being added into the scene.
+In this phase, the first PBR materials are being created and applied and the first secondary 3D assets are being added into the scene.
 
 Phase 4 - Narrative elements
 
@@ -90,7 +90,7 @@ The first of such techniques is normal baking and use of low poly models.
 First we need to look at what is a normal map. Normal map is one of many textures frequently used in PBR materials. It can define how light and shadow is being projected onto a surface of the 3D model.
 
 So in the picture there are three cubes. We can take the first cube and model all the detail into it, so we end up with the second cube. In the end we can take both cubes and bake the details of the second cube into a normal map which we project onto the first cube.
-That way we end up with an assets which has much lower polycount but still is really detailed. And that's the third cube.
+That way we end up with an asset which has much lower polycount but still is really detailed. And that's the third cube.
 
 If we take this into more extreme measures, we can use this technique on basically any kind of complex 3D model. We can significantly reduce the polycount while still maintaining almost all the details.
 
@@ -102,13 +102,13 @@ And if this technique is used properly you should not even notice a difference i
 
 The last technique is light baking
 This technique again kinda tricks the player with a visual bluff. When you're creating a 3D enviromnet you place many different light sources through out the scene. In order to make the system use less of its render power, you can bake the light into the texures of those objects, on which the light is being emitted.
-The lights is then emitted from emission texture of those objects and there are no actual dynamic lights in the scene. Of course, this technique has to be done properly, because if you mess it up, things can look really weird.
+The light is then emitted from emission texture of those objects and there are no actual dynamic lights in the scene. Of course, this technique has to be done properly, because if you mess it up, things can look really weird.
 
 In the last, currently work in progress chapter, I'm gonna take different kinds of videogame types, compare their environments and desribe the core elements of these environments and the main differences between them.
 
-And that's all for now!
+So that's all from me for now.
 
-Thank you!
+Thank you for your attention!
 
 
 
