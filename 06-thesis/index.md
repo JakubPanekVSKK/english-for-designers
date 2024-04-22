@@ -92,7 +92,7 @@ That way we end up with an assets which has much lower polycount but still is re
 
 If we take this into more extreme measures, we can use this technique on basically any kind of complex 3D model. We can significantly reduce the polycount while still maintaining almost all the details.
 
-Another techniques is use of LODs - Level of detail
+Another technique is use of LODs - Level of detail
 
 What this technique does is that it decimates the geometry of the 3D mesh and reduces the resolution of the textures based on the distance of the object from the player. 
 So the more far you get from the object, the less detailed it becomes. This way, your system is able to efficiently use it's performance and render full quality objects only if you are close enough to actually see the full detail. 
