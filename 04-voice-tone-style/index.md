@@ -26,4 +26,4 @@ As I said, I love open and unbiased debate about anything with likeminded people
 
 **Optimistic**
 
-Even though I am mostly self critic about myself I always tend to pass on positive vibes on others, especially when anyone opens up to me and seeks some advice or help. In may not seem like it, but I believe that you can always find some bright spots even in the biggest darkness.
+Even though I am mostly self critic about myself I always tend to be supportive and pass on positive vibes on others, especially when anyone opens up to me and seeks some advice or help. In may not seem like it, but I believe that you can always find some bright spots even in the biggest darkness.
