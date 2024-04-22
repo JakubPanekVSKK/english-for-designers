@@ -27,3 +27,7 @@ As I said, I love open and unbiased debate about anything with likeminded people
 **Optimistic**
 
 Even though I am mostly self critic about myself I always tend to be supportive and pass on positive vibes on others, especially when anyone opens up to me and seeks some advice or help. In may not seem like it, but I believe that you can always find some bright spots even in the thickest darkness.
+
+## **STYLE**
+
+When I'm writing informal between my friends, I tend to use lots of slang and mix up english and czech. We also use many different memes between my friends so I frequently use some references to them in my text too. And when that happens the language cant get... well, really creative. But of course, when it comes to formal language and proffesional matter, I can write really well and politely. Lately, I tend to use a few exclamation marks in my formal texts because I feel it makes it a little more energetic. But other than that, I'm oldschool with it.
