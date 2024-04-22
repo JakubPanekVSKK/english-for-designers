@@ -18,7 +18,7 @@ I'm mostly open to new ideas and new people. I like to work in a team and help b
 
 **Natural and friendly**
 
-I'm a bit of an introvert so not everyone may see me like this, but if I'm around my friends or even around new people I always tend to be really natural and friendly. Sometimes I may fight with my native face expression, that to some my seem a little too "serial murderer like", so mostly people that don't know me may think that I hate them or I am bored to death. But fortunately everyone who get to know me better know that I am not like this.
+I'm a bit of an introvert so not everyone may see me like this, but if I'm around my friends or even around new people I always tend to be really natural and friendly. Sometimes I may fight with my native face expression, that to some my seem a little too "serial murderer like". So mostly people that don't know me may think that I hate them or I am bored to death. But fortunately everyone who get to know me better know that I am not like this.
 
 **Openminded**
 
