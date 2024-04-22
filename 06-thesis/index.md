@@ -1,6 +1,6 @@
 **ENVIRONMENT DESIGN IN VIDEOGAMES WITH EMPHASIS ON THEIR TYPE**
 
-[VIDEO WITH VOICEOVER]()
+[VIDEO WITH VOICEOVER](https://youtu.be/rC7yLRJYeRc)
 
 Today I will talk about my thesis on the topic of Environmnet design in videogames with emphasis on their type
 
