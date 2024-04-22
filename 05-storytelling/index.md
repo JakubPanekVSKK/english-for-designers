@@ -1,6 +1,9 @@
 **FUTURE AND MOTIVATION**
+Welcome to my presentation! 
+Today I will talk about the future and motivation. 
+I will tell you how I percieved my future and motivation in the past and how I see it now.
 
-To better understand the future, first we need to look into the past
+To better understand the future, first we need to look into the past.
 
 **PAST**
 
@@ -89,7 +92,7 @@ Vast amount of them actually went to more difficult studies, which previously fe
 Mostly because of the teachers of those subjects that tought them such bs.
 
 As you can see I changed my field too.
-I quickly realized that law is absolutely nothing for me and I left after the first semester.
+I quickly realized that the law is absolutely nothing for me and I left after the first semester.
 
 It took me just the first half year of being outside this toxic shithole of highschool to actually open my eyes and focus more on the things that I really care about
 
@@ -140,6 +143,11 @@ Disclaimer: This may turn out to be complete bs in the future but who knows lol
 - If that moment really comes and there will be some new magical tool that will be able to replace half of your skills, don't be overly emotional and be ready to let go of them
 - Our jobs are unfortunately really emotionaly bound to us, but not sticking to outdated inefficient tools can save you lots of time and money
 - And who knows, maybe some time after, the unique characteristics of such tools will be trendy and wanted again and you will be ready on the marks with your old new skills
+
+I always tend to be a little too pesimistic but to be honest, even I believe that the future will not be as dark as it may seem. 
+So don‘t stress too much and be ready for new challenges and oppurtunities!
+
+Thank you!
 
 
 
