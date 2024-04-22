@@ -11,6 +11,8 @@
 
 [05 Storytelling](05-storytelling/index.md)
 
+[06 Thesis](06-thesis/index.md)
+
 
 
 
