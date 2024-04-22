@@ -6,6 +6,7 @@ I will tell you how I percieved my future and motivation in the past and how I s
 
 To better understand the future, first we need to look into the past.
 
+
 **PAST**
 
 During my highschool years I used to fear the future a lot.
@@ -104,6 +105,7 @@ And that led me to where I am now.
 For the first time in my life I am actually motivated and I can honestly say that I want to be the best at something.
 
 Or am I?
+
 
 **FUTURE**
 
