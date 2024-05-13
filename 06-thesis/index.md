@@ -28,6 +28,8 @@ Also their work actually doesnt look like this most of the time.
 Mostly it looks like this. Quick sketches that are altered and consulted with the art lead very frequently and thoroughly.
 Concept artist have to be really quick and effective in their work. 
 
+![image](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/7af0f322-4feb-498f-acfc-0ea52637e506)
+
 They need to be able to come up with loads of different concepts for same things and look at things from many different perspectives.
 
 Next department in the pipeline are Level designers.
@@ -38,6 +40,8 @@ They also decide what's gonna happen in the environment. Where will the enemies 
 This way they can ensure, that the player will be doing and feeling exactly how they want. 
 They even need to make sure that all the wanted game mechanics are being actively used through out the gameplay and that the enviromnet allows and encourages the player to use them in the way they were designed.
 
+![image](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/9247147c-4d4c-4524-a922-ad9bde89b364)
+
 The final department are Environment artists
 
 Environment artists take both the visual outputs from Concept artists and tested blockouts from Level designers and create a fuctioning and beatiful environment that is well optimized and runs smoothly on the targeted system.
@@ -45,6 +49,8 @@ Environment artists take both the visual outputs from Concept artists and tested
 To do this, they need to break down the enviromnet block out into many different 3D assets, such as trees, rocks, walls or even whole buildings and make these as efficiently as possible.
 For example, you may create ten different rocks that can be used in a scene as 60 different rocks. If you create them in a smart way, you can rotate and manipulate them in scene so that every time they look like a different rock while still using six times less resources.
 Even buildings are made in this way. They are broken down into modular assets, that can be seamlessly connected into each other. So enviroment artist can create whole cities with just few types of modular sets.
+
+![image](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/d2f573c8-6c1e-45e9-a85f-bab6ca802122)
 
 **Chapter No.2 - Production Pipeline**
 
@@ -81,6 +87,11 @@ Phase 5 - Final compositing and VFX
 In this final phase all of the post visual effects and filters are beign added.
 These are for example any kind of lens distortions and lens flares, particle systems or volumetrics.
 
+![image](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/c3650ac6-8201-4ae2-8825-8b760197b27c)
+
+![image](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/6af57932-d5a1-4e01-9a60-35b5c5584d76)
+
+
 **Chapter No.3 - Production Techniques**
 
 To make every videogame run smoothly on the targeted system, there are many different techniques to maintain the visual level while making it less demanding of performance.
@@ -93,6 +104,9 @@ So in the picture there are three cubes. We can take the first cube and model al
 That way we end up with an asset which has much lower polycount but still is really detailed. And that's the third cube.
 
 If we take this into more extreme measures, we can use this technique on basically any kind of complex 3D model. We can significantly reduce the polycount while still maintaining almost all the details.
+
+![image](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/b64a9410-e1cf-45c8-bd1f-1b50eb1c360c)
+
 
 Another technique is use of LODs - Level of detail
 
