@@ -8,11 +8,11 @@
 
 [04 Voice, Tone and Style](04-voice-tone-style/index.md)
 
-
 [05 Storytelling](05-storytelling/index.md)
 
 [06 Thesis](06-thesis/index.md)
 
+[07 Year in review](07-year-in-review/index.md)
 
 
 
