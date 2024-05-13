@@ -120,6 +120,7 @@ Nobody just yet knows how many and which ones.
 So I thought - How can I survive this and possibly make the most out of it.
 I listened to bunch of smart and succesful people and created:
 
+![Book_01](https://github.com/JakubPanekVSKK/english-for-designers/assets/149397077/0808a292-7ff6-422b-b954-31ef104f8e64)
 
 **How to not get ef'd by AI aka My list of 5 useful future skills**
 
